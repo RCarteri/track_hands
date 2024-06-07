@@ -19,3 +19,6 @@ The application will start capturing video from your webcam and display the vide
 ## Notes
 - `detectionCon` parameter in `HandDetector` specifies the confidence threshold for detecting hands.
 - `maxHands` parameter specifies the maximum number of hands to detect.
+
+
+https://github.com/RCarteri/track_hands/assets/38788751/d41e2fea-9289-4338-9b8c-e25f039caf00
